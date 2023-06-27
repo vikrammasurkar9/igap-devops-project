@@ -1,3 +1,4 @@
+### this file used to launch 5 virtual machine
 Vagrant.configure("2") do |config|
   config.hostmanager.enabled = true 
   config.hostmanager.manage_host = true
